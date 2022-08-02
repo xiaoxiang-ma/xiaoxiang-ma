@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 My name is Max and I'm a Data Scientist! 
+
 By day, I design and engineer end to end ML solutions. 
+
 By night, I get my hands dirty trying cloud platforms/architectures/tools to bring my ideas into life.
 
 - 🔭 I’m currently working on a toy NLP insights extraction tool...
