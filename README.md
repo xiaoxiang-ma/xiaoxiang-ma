@@ -2,15 +2,6 @@
 
 My name is Max and I'm a Data Scientist! 
 
-By day, I design and engineer end to end ML solutions. 
-
-By night, I get my hands dirty trying cloud platforms/architectures/tools to bring my ideas into life.
-
-- 🔭 I’m currently working on a toy NLP insights extraction tool...
-- 🌱 I’m currently learning cloud computing and containerized deployment...
-- 👯 I’m looking to collaborate on projects around NLP! LLMs are calling me...
-- 📫 How to reach me: xiaoxiangma7@gmail.com
-- ⚡ Fun fact: I'm a competitve Badminton player and I train every week to improve my game!
 
 <!--
 **xiaoxiang-ma/xiaoxiang-ma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
